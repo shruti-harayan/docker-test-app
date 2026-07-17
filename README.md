@@ -261,5 +261,3 @@ Resolving these problems helped me gain a better understanding of Docker and bac
 # Author
 
 **Shruti Harayan**
-
-```
