@@ -146,11 +146,6 @@ The frontend allows users to submit their details.
 
 <img width="895" height="507" alt="Screenshot 2026-07-17 134804" src="https://github.com/user-attachments/assets/00383c67-f6f7-4202-b31f-8efbb5760d85" />
 
-
-```
-screenshots/home.png
-```
-
 ---
 
 ## 2. Mongo Express Dashboard
@@ -158,11 +153,6 @@ screenshots/home.png
 Successfully inserted users into MongoDB.
 
 <img width="948" height="505" alt="Screenshot 2026-07-17 134836" src="https://github.com/user-attachments/assets/0aeda2d6-17a1-4cd5-8871-7c0441d50784" />
-
-
-```
-screenshots/mongo-express.png
-```
 
 ---
 
@@ -172,11 +162,6 @@ Retrieving all users using the GET endpoint.
 
 <img width="441" height="236" alt="Screenshot 2026-07-17 134855" src="https://github.com/user-attachments/assets/3309f602-4263-4b23-a9ce-42d5f6715ab2" />
 
-
-```
-screenshots/get-users.png
-```
-
 ---
 
 ## 4. Server Logs
@@ -184,11 +169,6 @@ screenshots/get-users.png
 Node.js server successfully connected to MongoDB and inserted data.
 
 <img width="949" height="500" alt="Screenshot 2026-07-17 134959" src="https://github.com/user-attachments/assets/f5f5628b-cb07-4746-b6f1-dad18ff1c4c9" />
-
-
-```
-screenshots/server-log.png
-```
 
 ---
 
@@ -282,7 +262,4 @@ Resolving these problems helped me gain a better understanding of Docker and bac
 
 **Shruti Harayan**
 
-```
-
-![Server Logs](screenshots/server-log.png)
 ```
