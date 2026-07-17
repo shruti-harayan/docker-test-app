@@ -144,7 +144,8 @@ Example Response
 
 The frontend allows users to submit their details.
 
-> Add screenshot
+<img width="895" height="507" alt="Screenshot 2026-07-17 134804" src="https://github.com/user-attachments/assets/00383c67-f6f7-4202-b31f-8efbb5760d85" />
+
 
 ```
 screenshots/home.png
@@ -156,7 +157,8 @@ screenshots/home.png
 
 Successfully inserted users into MongoDB.
 
-> Add screenshot
+<img width="948" height="505" alt="Screenshot 2026-07-17 134836" src="https://github.com/user-attachments/assets/0aeda2d6-17a1-4cd5-8871-7c0441d50784" />
+
 
 ```
 screenshots/mongo-express.png
@@ -168,7 +170,8 @@ screenshots/mongo-express.png
 
 Retrieving all users using the GET endpoint.
 
-> Add screenshot
+<img width="441" height="236" alt="Screenshot 2026-07-17 134855" src="https://github.com/user-attachments/assets/3309f602-4263-4b23-a9ce-42d5f6715ab2" />
+
 
 ```
 screenshots/get-users.png
@@ -180,7 +183,8 @@ screenshots/get-users.png
 
 Node.js server successfully connected to MongoDB and inserted data.
 
-> Add screenshot
+<img width="949" height="500" alt="Screenshot 2026-07-17 134959" src="https://github.com/user-attachments/assets/f5f5628b-cb07-4746-b6f1-dad18ff1c4c9" />
+
 
 ```
 screenshots/server-log.png
@@ -278,44 +282,7 @@ Resolving these problems helped me gain a better understanding of Docker and bac
 
 **Shruti Harayan**
 
-GitHub: https://github.com/<your-github-username>
-
 ```
-
-## Small suggestion for your repository
-
-Create a folder named:
-
-```
-screenshots/
-```
-
-Move your four screenshots into it and rename them like this:
-
-```
-screenshots/
-│── home.png
-│── mongo-express.png
-│── get-users.png
-│── server-log.png
-```
-
-Then replace the placeholder text in the README with actual Markdown image links:
-
-```md
-## Registration Form
-
-![Registration Form](screenshots/home.png)
-
-## Mongo Express Dashboard
-
-![Mongo Express](screenshots/mongo-express.png)
-
-## GET Users API
-
-![GET Users](screenshots/get-users.png)
-
-## Server Logs
 
 ![Server Logs](screenshots/server-log.png)
 ```
